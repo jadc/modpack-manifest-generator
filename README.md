@@ -1,4 +1,7 @@
 # Modpack manifest.json Generator
+A small python script that automatically generates a `manifest.json` file for you simply from a list of Curseforge mod project IDs.
+
+It automatically downloads the latest release of forge and each mod for your desired Minecraft version.
 
 ## Instructions
 1. Open `mods.txt`, and write the Project ID of each mod you want, seperating each one with a new line.  
