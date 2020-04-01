@@ -10,8 +10,8 @@
 2. Edit `manifest-template.json` to your liking. Ensure `version` is set to the desired Minecraft version of the modpack.  
    a. If you are planning to have an overrides folder, add `"overrides": "overrides"`
 
-3. Generate the manifest.json by running `generate.py` in a terminal.  
-   `$ python generate.py`
+3. Generate the manifest.json by running `generate.pyc` in a terminal.  
+   `$ python generate.pyc`
 
 4. A manifest.json should now be in the directory.  
    Move that to your modpack folder, zip it up, and your modpack should import into MultiMC perfectly.
