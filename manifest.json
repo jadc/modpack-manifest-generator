@@ -1,0 +1,42 @@
+{
+    "author": "",
+    "files": [
+        {
+            "!": "Quark (Quark-r1.6-178.jar)",
+            "fileID": 2889332,
+            "projectID": 243121,
+            "required": true
+        },
+        {
+            "!": "AutoRegLib (AutoRegLib-1.3-32.jar)",
+            "fileID": 2746011,
+            "projectID": 250363,
+            "required": true
+        },
+        {
+            "!": "Quark Oddities (QuarkOddities-1.12.2.jar)",
+            "fileID": 2604798,
+            "projectID": 301051,
+            "required": true
+        },
+        {
+            "!": "Big Chungus (BigChungusv2.jar)",
+            "fileID": 2655176,
+            "projectID": 310240,
+            "required": true
+        }
+    ],
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "minecraft": {
+        "modLoaders": [
+            {
+                "id": "forge-14.23.5.2847",
+                "primary": true
+            }
+        ],
+        "version": "1.12.2"
+    },
+    "name": "",
+    "version": ""
+}
