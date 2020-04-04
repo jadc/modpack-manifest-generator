@@ -19,6 +19,10 @@ It automatically downloads the latest release of forge and each mod for your des
 4. A manifest.json should now be in the directory.  
    Move that to your modpack folder, zip it up, and your modpack should import into MultiMC perfectly.
 
+### Other Files
+You can alternatively use other files instead of the mods.txt.  
+Simply just drag and drop the file onto `generate.pyc`, or state it as the first argument in a command.
+
 ## Releases
 The released are simply minified versions of the source code. If you don't know what that means, don't worry, just click the link below.
 
